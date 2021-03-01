@@ -19,12 +19,12 @@ public class Quiz2 {
         quiz.addInciso(1, new Inciso("rojo", false));
         quiz.addInciso(1, new Inciso("no sé", false));
         quiz.addInciso(1, new Inciso("Marrón", false));
-        quiz.addPregunta("Quiero demasiado a Abril?");
+        quiz.addPregunta("Quien engaño a roger rabbit?");
         quiz.addInciso(2, new Inciso("sí", true));
-        quiz.addInciso(2, new Inciso("no", false));
-        quiz.addInciso(2, new Inciso("no sé", false));
-        quiz.addInciso(2, new Inciso("Poco", false));
-        quiz.addPregunta("Ella me quiere?");
+        quiz.addInciso(2, new Inciso("tu", false));
+        quiz.addInciso(2, new Inciso("chespirito", false));
+        quiz.addInciso(2, new Inciso("no se", false));
+        quiz.addPregunta("El profe krim es el mejor?");
         quiz.addInciso(3, new Inciso("sí", true));
         quiz.addInciso(3, new Inciso("no", false));
         quiz.addInciso(3, new Inciso("no sé", false));
